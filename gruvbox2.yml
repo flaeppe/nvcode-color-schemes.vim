@@ -71,7 +71,7 @@ highlights:
   SpecialComment: "bg3"
   MoreMsg: "fg"
   Error: "red_2 - br"
-  Todo: "purple - bi"
+  Todo: "fg2 - bi"
   Underlined: "red . u"
   Cursor: "- - r"
 
@@ -174,7 +174,7 @@ highlights:
   TSEmphasis: "yellow"
   TSUnderline: "yellow"
   TSTitle: "yellow"
-  TSLiteral: "yellow"
+  TSLiteral: "green"
   TSURI: "yellow"
   # Tags
   TSTag: "blue"

@@ -38,7 +38,7 @@ hi Special guifg=#83a598 ctermfg=108 guibg=NONE ctermbg=NONE gui=italic cterm=it
 hi SpecialComment guifg=#665c54 ctermfg=59 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MoreMsg guifg=#ebdbb2 ctermfg=223 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Error guifg=#fb4934 ctermfg=203 guibg=NONE ctermbg=NONE gui=bold,reverse cterm=bold,reverse
-hi Todo guifg=#b16286 ctermfg=132 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic
+hi Todo guifg=#d5c4a1 ctermfg=187 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic
 hi Underlined guifg=#cc241d ctermfg=160 gui=underline cterm=underline
 hi Cursor guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#504945 ctermbg=239 gui=NONE cterm=NONE
@@ -121,7 +121,7 @@ hi TSStrong guifg=#d79921 ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi TSEmphasis guifg=#d79921 ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSUnderline guifg=#d79921 ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTitle guifg=#d79921 ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSLiteral guifg=#d79921 ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSLiteral guifg=#98971a ctermfg=100 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSURI guifg=#d79921 ctermfg=172 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTag guifg=#458588 ctermfg=66 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSTagDelimiter guifg=#665c54 ctermfg=59 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
